@@ -1,4 +1,4 @@
-# :airplane: FastAPI Dependency Injection Examples
+# :airplane: FastAPI Dependency Injection
 
 This project demonstrates the use of **Dependency Injection** in FastAPI through simple and practical examples. It showcases how to write clean, reusable, and testable API logic using built-in `Depends` and custom dependencies including class-based dependencies.
 
