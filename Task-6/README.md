@@ -6,10 +6,10 @@ A simple and efficient FastAPI project to manage **Users** and their **Tasks** w
 
 ### 📌 Features
 
-✅ Create and retrieve users
-✅ Create and manage tasks for users
-✅ Update task status (with allowed values only)
-✅ Get all tasks assigned to a user
+✅ Create and retrieve users <br/>
+✅ Create and manage tasks for users <br/>
+✅ Update task status (with allowed values only) <br/>
+✅ Get all tasks assigned to a user <br/>
 ✅ Pydantic validation for inputs (emails, due dates, status constraints)
 
 ---
